@@ -1,0 +1,8 @@
+[package]
+name = "nightmare-chill-out-dude"
+version = "1.0.0"
+edition = "2024"
+authors = ["tousef_refuge"]
+description = "Brian Bartholomew Griffin. Avert your attention to me."
+
+[dependencies]
